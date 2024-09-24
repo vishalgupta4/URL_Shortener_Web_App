@@ -34,3 +34,7 @@ This is a Node.js web application that allows users to input a long URL and retu
 
 └── README.md # Project documentation
 ```
+
+
+-If Server is already in use-   
+             netstat -ano | findstr :PORT_Num  (will kill the running server)
