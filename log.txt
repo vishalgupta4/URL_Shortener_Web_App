@@ -156,3 +156,6 @@
 1727008538742 "::1" : GET : /analytics
 1727008568265 "::1" : GET : /url/IwFTkvRQk
 1727008618426 "::1" : GET : /url/IwFTkvRQk
+1727107592555 "::1" : GET : /
+1727107594127 "::1" : GET : /favicon.ico
+1727107627347 "::1" : POST : /url
